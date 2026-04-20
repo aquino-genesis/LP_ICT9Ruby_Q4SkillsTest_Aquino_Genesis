@@ -1,3 +1,3 @@
 # Account Details:
-Username: DimensionReset  
-Password: myPass123ABC
+**Username:** DimensionReset  
+**Password:** myPass123ABC
