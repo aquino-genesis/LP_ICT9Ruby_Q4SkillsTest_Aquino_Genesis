@@ -1,1 +1,3 @@
-# LP_ICT9Ruby_Q4SkillsTest_Aquino_Genesis
+# Account Details:
+Username: DimensionReset
+Password: myPass123ABC
